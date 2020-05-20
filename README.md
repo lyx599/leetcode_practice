@@ -34,6 +34,7 @@ leetcode刷题记录
 | 18   | [四数之和](https://leetcode-cn.com/problems/4sum)            |      |
 | 26   | [删除排序数组中的重复项](https://leetcode-cn.com/problems/remove-duplicates-from-sorted-array) |      |
 | 27   | [移除元素](https://leetcode-cn.com/problems/remove-element)  |      |
+| 31   | [下一个排列](https://leetcode-cn.com/problems/next-permutation) |      |
 
 
 
