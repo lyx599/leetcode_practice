@@ -25,16 +25,17 @@ leetcode刷题记录
 
 ## 数组
 
-| 编号 | 题目                                                         | 备注 |
-| :--- | ------------------------------------------------------------ | ---- |
-| 01   | [两数之和](https://leetcode-cn.com/problems/two-sum)         |      |
-| 11   | [盛最多水的容器](https://leetcode-cn.com/problems/container-with-most-water) |      |
-| 15   | [三数之和](https://leetcode-cn.com/problems/3sum)            |      |
-| 16   | [ 最接近的三数之和](https://leetcode-cn.com/problems/3sum-closest) |      |
-| 18   | [四数之和](https://leetcode-cn.com/problems/4sum)            |      |
-| 26   | [删除排序数组中的重复项](https://leetcode-cn.com/problems/remove-duplicates-from-sorted-array) |      |
-| 27   | [移除元素](https://leetcode-cn.com/problems/remove-element)  |      |
-| 31   | [下一个排列](https://leetcode-cn.com/problems/next-permutation) |      |
+| 编号     | 题目                                                         | 备注               |
+| :------- | ------------------------------------------------------------ | ------------------ |
+| 01       | [两数之和](https://leetcode-cn.com/problems/two-sum)         |                    |
+| 11       | [盛最多水的容器](https://leetcode-cn.com/problems/container-with-most-water) |                    |
+| 15       | [三数之和](https://leetcode-cn.com/problems/3sum)            |                    |
+| 16       | [ 最接近的三数之和](https://leetcode-cn.com/problems/3sum-closest) |                    |
+| 18       | [四数之和](https://leetcode-cn.com/problems/4sum)            |                    |
+| 26       | [删除排序数组中的重复项](https://leetcode-cn.com/problems/remove-duplicates-from-sorted-array) |                    |
+| 27       | [移除元素](https://leetcode-cn.com/problems/remove-element)  |                    |
+| 31       | [下一个排列](https://leetcode-cn.com/problems/next-permutation) |                    |
+| 面试题03 | [ 数组中重复的数字](https://leetcode-cn.com/problems/shu-zu-zhong-zhong-fu-de-shu-zi-lcof) | 哈希表，代码鲁棒性 |
 
 
 
