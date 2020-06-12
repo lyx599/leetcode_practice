@@ -115,6 +115,7 @@ leetcode刷题记录
 | 编号     | 题目                                                         | 备注 |
 | :------- | ------------------------------------------------------------ | ---- |
 | 面试题12 | [矩阵中的路径](https://leetcode-cn.com/problems/ju-zhen-zhong-de-lu-jing-lcof) |      |
+| 面试题17 | [打印从1到最大的n位数](https://leetcode-cn.com/problems/da-yin-cong-1dao-zui-da-de-nwei-shu-lcof) |      |
 
 ## BFS
 
@@ -146,6 +147,7 @@ leetcode刷题记录
 | :----------- | ------------------------------------------------------------ | ---- |
 | 面试题10- I  | [斐波那契数列](https://leetcode-cn.com/problems/fei-bo-na-qi-shu-lie-lcof) |      |
 | 面试题10- II | [青蛙跳台阶问题](https://leetcode-cn.com/problems/qing-wa-tiao-tai-jie-wen-ti-lcof) |      |
+| 面试题17     | [打印从1到最大的n位数](https://leetcode-cn.com/problems/da-yin-cong-1dao-zui-da-de-nwei-shu-lcof) |      |
 
 ## 回溯
 
