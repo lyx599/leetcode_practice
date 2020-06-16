@@ -65,7 +65,7 @@ leetcode刷题记录
 | 21       | [合并两个有序链表](https://leetcode-cn.com/problems/merge-two-sorted-lists) |      |
 | 24       | [两两交换链表中的节点](https://leetcode-cn.com/problems/swap-nodes-in-pairs) |      |
 | 面试题06 | [从尾到头打印链表](https://leetcode-cn.com/problems/cong-wei-dao-tou-da-yin-lian-biao-lcof) |      |
-|          |                                                              |      |
+| 面试题18 | [删除链表的节点](https://leetcode-cn.com/problems/shan-chu-lian-biao-de-jie-dian-lcof) |      |
 
 ## 树
 
@@ -112,10 +112,10 @@ leetcode刷题记录
 
 ## DFS
 
-| 编号     | 题目                                                         | 备注 |
-| :------- | ------------------------------------------------------------ | ---- |
-| 面试题12 | [矩阵中的路径](https://leetcode-cn.com/problems/ju-zhen-zhong-de-lu-jing-lcof) |      |
-| 面试题17 | [打印从1到最大的n位数](https://leetcode-cn.com/problems/da-yin-cong-1dao-zui-da-de-nwei-shu-lcof) |      |
+| 编号     | 题目                                                         | 备注     |
+| :------- | ------------------------------------------------------------ | -------- |
+| 面试题12 | [矩阵中的路径](https://leetcode-cn.com/problems/ju-zhen-zhong-de-lu-jing-lcof) |          |
+| 面试题17 | [打印从1到最大的n位数](https://leetcode-cn.com/problems/da-yin-cong-1dao-zui-da-de-nwei-shu-lcof) | 大数问题 |
 
 ## BFS
 
@@ -136,10 +136,11 @@ leetcode刷题记录
 
 ## 动态规划
 
-| 编号         | 题目                                                         | 备注 |
-| :----------- | ------------------------------------------------------------ | ---- |
-| 面试题14- I  | [剪绳子](https://leetcode-cn.com/problems/jian-sheng-zi-lcof) |      |
-| 面试题14- II | [剪绳子 II](https://leetcode-cn.com/problems/jian-sheng-zi-ii-lcof) |      |
+| 编号         | 题目                                                         | 备注               |
+| :----------- | ------------------------------------------------------------ | ------------------ |
+| 面试题14- I  | [剪绳子](https://leetcode-cn.com/problems/jian-sheng-zi-lcof) |                    |
+| 面试题14- II | [剪绳子 II](https://leetcode-cn.com/problems/jian-sheng-zi-ii-lcof) |                    |
+| 面试题19     | [正则表达式匹配](https://leetcode-cn.com/problems/zheng-ze-biao-da-shi-pi-pei-lcof) | 困难，主要状态分析 |
 
 ## 递归
 
