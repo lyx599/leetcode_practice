@@ -91,6 +91,8 @@ leetcode刷题记录
 | 剑指 Offer 34       | [二叉树中和为某一值的路径](https://leetcode-cn.com/problems/er-cha-shu-zhong-he-wei-mou-yi-zhi-de-lu-jing-lcof) | 回溯法，迭代法                           |
 | 剑指 Offer 36       | [二叉搜索树与双向链表](https://leetcode-cn.com/problems/er-cha-sou-suo-shu-yu-shuang-xiang-lian-biao-lcof) | 基于性质：中序遍历                       |
 
+## 数学
+
 | 编号 | 题目                                                         | 备注 |
 | :--- | ------------------------------------------------------------ | ---- |
 | 02   | [两数相加](https://leetcode-cn.com/problems/add-two-numbers) |      |
