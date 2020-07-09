@@ -26,25 +26,26 @@ leetcode刷题记录
 
 ## 数组
 
-| 编号          | 题目                                                         | 备注                |
-| :------------ | ------------------------------------------------------------ | ------------------- |
-| 01            | [两数之和](https://leetcode-cn.com/problems/two-sum)         |                     |
-| 11            | [盛最多水的容器](https://leetcode-cn.com/problems/container-with-most-water) |                     |
-| 15            | [三数之和](https://leetcode-cn.com/problems/3sum)            |                     |
-| 16            | [ 最接近的三数之和](https://leetcode-cn.com/problems/3sum-closest) |                     |
-| 18            | [四数之和](https://leetcode-cn.com/problems/4sum)            |                     |
-| 26            | [删除排序数组中的重复项](https://leetcode-cn.com/problems/remove-duplicates-from-sorted-array) |                     |
-| 27            | [移除元素](https://leetcode-cn.com/problems/remove-element)  |                     |
-| 31            | [下一个排列](https://leetcode-cn.com/problems/next-permutation) |                     |
-| 面试题03      | [ 数组中重复的数字](https://leetcode-cn.com/problems/shu-zu-zhong-zhong-fu-de-shu-zi-lcof) | 哈希表，代码鲁棒性  |
-| 面试题04      | [二维数组中的查找](https://leetcode-cn.com/problems/er-wei-shu-zu-zhong-de-cha-zhao-lcof) | 利用递增的规律      |
-| 面试题05      | [替换空格](https://leetcode-cn.com/problems/ti-huan-kong-ge-lcof) |                     |
-| 面试题11      | [旋转数组的最小数字](https://leetcode-cn.com/problems/xuan-zhuan-shu-zu-de-zui-xiao-shu-zi-lcof) |                     |
-| 剑指 Offer 21 | [调整数组顺序使奇数位于偶数前面](https://leetcode-cn.com/problems/diao-zheng-shu-zu-shun-xu-shi-qi-shu-wei-yu-ou-shu-qian-mian-lcof) | 双指针降低复杂度    |
-| 剑指 Offer 29 | [顺时针打印矩阵](https://leetcode-cn.com/problems/shun-shi-zhen-da-yin-ju-zhen-lcof) | 模拟                |
-| 剑指 Offer 39 | [数组中出现次数超过一半的数字](https://leetcode-cn.com/problems/shu-zu-zhong-chu-xian-ci-shu-chao-guo-yi-ban-de-shu-zi-lcof) | 利用性质：投票法    |
-| 剑指 Offer 40 | [最小的k个数](https://leetcode-cn.com/problems/zui-xiao-de-kge-shu-lcof) | 堆或者快排思想（☆） |
-| 剑指 Offer 41 | [数据流中的中位数](https://leetcode-cn.com/problems/shu-ju-liu-zhong-de-zhong-wei-shu-lcof) | 堆                  |
+| 编号          | 题目                                                         | 备注                           |
+| :------------ | ------------------------------------------------------------ | ------------------------------ |
+| 01            | [两数之和](https://leetcode-cn.com/problems/two-sum)         |                                |
+| 11            | [盛最多水的容器](https://leetcode-cn.com/problems/container-with-most-water) |                                |
+| 15            | [三数之和](https://leetcode-cn.com/problems/3sum)            |                                |
+| 16            | [ 最接近的三数之和](https://leetcode-cn.com/problems/3sum-closest) |                                |
+| 18            | [四数之和](https://leetcode-cn.com/problems/4sum)            |                                |
+| 26            | [删除排序数组中的重复项](https://leetcode-cn.com/problems/remove-duplicates-from-sorted-array) |                                |
+| 27            | [移除元素](https://leetcode-cn.com/problems/remove-element)  |                                |
+| 31            | [下一个排列](https://leetcode-cn.com/problems/next-permutation) |                                |
+| 面试题03      | [ 数组中重复的数字](https://leetcode-cn.com/problems/shu-zu-zhong-zhong-fu-de-shu-zi-lcof) | 哈希表，代码鲁棒性             |
+| 面试题04      | [二维数组中的查找](https://leetcode-cn.com/problems/er-wei-shu-zu-zhong-de-cha-zhao-lcof) | 利用递增的规律                 |
+| 面试题05      | [替换空格](https://leetcode-cn.com/problems/ti-huan-kong-ge-lcof) |                                |
+| 面试题11      | [旋转数组的最小数字](https://leetcode-cn.com/problems/xuan-zhuan-shu-zu-de-zui-xiao-shu-zi-lcof) |                                |
+| 剑指 Offer 21 | [调整数组顺序使奇数位于偶数前面](https://leetcode-cn.com/problems/diao-zheng-shu-zu-shun-xu-shi-qi-shu-wei-yu-ou-shu-qian-mian-lcof) | 双指针降低复杂度               |
+| 剑指 Offer 29 | [顺时针打印矩阵](https://leetcode-cn.com/problems/shun-shi-zhen-da-yin-ju-zhen-lcof) | 模拟                           |
+| 剑指 Offer 39 | [数组中出现次数超过一半的数字](https://leetcode-cn.com/problems/shu-zu-zhong-chu-xian-ci-shu-chao-guo-yi-ban-de-shu-zi-lcof) | 利用性质：投票法               |
+| 剑指 Offer 40 | [最小的k个数](https://leetcode-cn.com/problems/zui-xiao-de-kge-shu-lcof) | 堆或者快排思想（☆）            |
+| 剑指 Offer 41 | [数据流中的中位数](https://leetcode-cn.com/problems/shu-ju-liu-zhong-de-zhong-wei-shu-lcof) | 堆                             |
+| 剑指 Offer 42 | [连续子数组的最大和](https://leetcode-cn.com/problems/lian-xu-zi-shu-zu-de-zui-da-he-lcof) | 贪心算法或动态规划，最优化问题 |
 
 
 
@@ -124,10 +125,11 @@ leetcode刷题记录
 
 ## 贪心算法
 
-| 编号         | 题目                                                         | 备注 |
-| :----------- | ------------------------------------------------------------ | ---- |
-| 面试题14- I  | [剪绳子](https://leetcode-cn.com/problems/jian-sheng-zi-lcof) |      |
-| 面试题14- II | [剪绳子 II](https://leetcode-cn.com/problems/jian-sheng-zi-ii-lcof) |      |
+| 编号          | 题目                                                         | 备注 |
+| :------------ | ------------------------------------------------------------ | ---- |
+| 面试题14- I   | [剪绳子](https://leetcode-cn.com/problems/jian-sheng-zi-lcof) |      |
+| 面试题14- II  | [剪绳子 II](https://leetcode-cn.com/problems/jian-sheng-zi-ii-lcof) |      |
+| 剑指 Offer 42 | [连续子数组的最大和](https://leetcode-cn.com/problems/lian-xu-zi-shu-zu-de-zui-da-he-lcof) |      |
 
 ## DFS
 
@@ -157,11 +159,12 @@ leetcode刷题记录
 
 ## 动态规划
 
-| 编号         | 题目                                                         | 备注               |
-| :----------- | ------------------------------------------------------------ | ------------------ |
-| 面试题14- I  | [剪绳子](https://leetcode-cn.com/problems/jian-sheng-zi-lcof) |                    |
-| 面试题14- II | [剪绳子 II](https://leetcode-cn.com/problems/jian-sheng-zi-ii-lcof) |                    |
-| 面试题19     | [正则表达式匹配](https://leetcode-cn.com/problems/zheng-ze-biao-da-shi-pi-pei-lcof) | 困难，主要状态分析 |
+| 编号          | 题目                                                         | 备注               |
+| :------------ | ------------------------------------------------------------ | ------------------ |
+| 面试题14- I   | [剪绳子](https://leetcode-cn.com/problems/jian-sheng-zi-lcof) |                    |
+| 面试题14- II  | [剪绳子 II](https://leetcode-cn.com/problems/jian-sheng-zi-ii-lcof) |                    |
+| 面试题19      | [正则表达式匹配](https://leetcode-cn.com/problems/zheng-ze-biao-da-shi-pi-pei-lcof) | 困难，主要状态分析 |
+| 剑指 Offer 42 | [连续子数组的最大和](https://leetcode-cn.com/problems/lian-xu-zi-shu-zu-de-zui-da-he-lcof) |                    |
 
 ## 递归
 
