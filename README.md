@@ -48,6 +48,7 @@ leetcode刷题记录
 | 剑指 Offer 42 | [连续子数组的最大和](https://leetcode-cn.com/problems/lian-xu-zi-shu-zu-de-zui-da-he-lcof) | 贪心算法或动态规划，最优化问题 |
 | 剑指 Offer 43 | [1～n整数中1出现的次数](https://leetcode-cn.com/problems/1nzheng-shu-zhong-1chu-xian-de-ci-shu-lcof) | 找规律                         |
 | 剑指 Offer 44 | [数字序列中某一位的数字](https://leetcode-cn.com/problems/shu-zi-xu-lie-zhong-mou-yi-wei-de-shu-zi-lcof) | 找规律                         |
+| 剑指 Offer 45 | [把数组排成最小的数](https://leetcode-cn.com/problems/ba-shu-zu-pai-cheng-zui-xiao-de-shu-lcof) | 建立新的比较规则               |
 
 
 
@@ -167,6 +168,8 @@ leetcode刷题记录
 | 面试题14- II  | [剪绳子 II](https://leetcode-cn.com/problems/jian-sheng-zi-ii-lcof) |                    |
 | 面试题19      | [正则表达式匹配](https://leetcode-cn.com/problems/zheng-ze-biao-da-shi-pi-pei-lcof) | 困难，主要状态分析 |
 | 剑指 Offer 42 | [连续子数组的最大和](https://leetcode-cn.com/problems/lian-xu-zi-shu-zu-de-zui-da-he-lcof) |                    |
+| 剑指 Offer 46 | [把数字翻译成字符串](https://leetcode-cn.com/problems/ba-shu-zi-fan-yi-cheng-zi-fu-chuan-lcof) |                    |
+| 剑指 Offer 47 | [礼物的最大价值](https://leetcode-cn.com/problems/li-wu-de-zui-da-jie-zhi-lcof) |                    |
 
 ## 递归
 
