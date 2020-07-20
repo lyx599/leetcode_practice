@@ -113,7 +113,7 @@ leetcode刷题记录
 
 | 编号          | 题目                                                         | 备注           |
 | :------------ | ------------------------------------------------------------ | -------------- |
-| 03            | [无重复字符的最长子串](https://leetcode-cn.com/problems/longest-substring-without-repeating-characters) |                |
+| 03            | [无重复字符的最长子串](https://leetcode-cn.com/problems/longest-substring-without-repeating-characters) | 滑动窗口       |
 | 05            | [最长回文子串](https://leetcode-cn.com/problems/longest-palindromic-substring) |                |
 | 06            | [Z 字形变换](https://leetcode-cn.com/problems/zigzag-conversion) |                |
 | 08            | [ 字符串转换整数 (atoi)](https://leetcode-cn.com/problems/string-to-integer-atoi) |                |
@@ -170,6 +170,7 @@ leetcode刷题记录
 | 剑指 Offer 42 | [连续子数组的最大和](https://leetcode-cn.com/problems/lian-xu-zi-shu-zu-de-zui-da-he-lcof) |                    |
 | 剑指 Offer 46 | [把数字翻译成字符串](https://leetcode-cn.com/problems/ba-shu-zi-fan-yi-cheng-zi-fu-chuan-lcof) |                    |
 | 剑指 Offer 47 | [礼物的最大价值](https://leetcode-cn.com/problems/li-wu-de-zui-da-jie-zhi-lcof) |                    |
+| 剑指 Offer 48 | [最长不含重复字符的子字符串](https://leetcode-cn.com/problems/zui-chang-bu-han-zhong-fu-zi-fu-de-zi-zi-fu-chuan-lcof) | 滑动窗口           |
 
 ## 递归
 
