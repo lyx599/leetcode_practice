@@ -162,15 +162,16 @@ leetcode刷题记录
 
 ## 动态规划
 
-| 编号          | 题目                                                         | 备注               |
-| :------------ | ------------------------------------------------------------ | ------------------ |
-| 面试题14- I   | [剪绳子](https://leetcode-cn.com/problems/jian-sheng-zi-lcof) |                    |
-| 面试题14- II  | [剪绳子 II](https://leetcode-cn.com/problems/jian-sheng-zi-ii-lcof) |                    |
-| 面试题19      | [正则表达式匹配](https://leetcode-cn.com/problems/zheng-ze-biao-da-shi-pi-pei-lcof) | 困难，主要状态分析 |
-| 剑指 Offer 42 | [连续子数组的最大和](https://leetcode-cn.com/problems/lian-xu-zi-shu-zu-de-zui-da-he-lcof) |                    |
-| 剑指 Offer 46 | [把数字翻译成字符串](https://leetcode-cn.com/problems/ba-shu-zi-fan-yi-cheng-zi-fu-chuan-lcof) |                    |
-| 剑指 Offer 47 | [礼物的最大价值](https://leetcode-cn.com/problems/li-wu-de-zui-da-jie-zhi-lcof) |                    |
-| 剑指 Offer 48 | [最长不含重复字符的子字符串](https://leetcode-cn.com/problems/zui-chang-bu-han-zhong-fu-zi-fu-de-zi-zi-fu-chuan-lcof) | 滑动窗口           |
+| 编号          | 题目                                                         | 备注                     |
+| :------------ | ------------------------------------------------------------ | ------------------------ |
+| 面试题14- I   | [剪绳子](https://leetcode-cn.com/problems/jian-sheng-zi-lcof) |                          |
+| 面试题14- II  | [剪绳子 II](https://leetcode-cn.com/problems/jian-sheng-zi-ii-lcof) |                          |
+| 面试题19      | [正则表达式匹配](https://leetcode-cn.com/problems/zheng-ze-biao-da-shi-pi-pei-lcof) | 困难，主要状态分析       |
+| 剑指 Offer 42 | [连续子数组的最大和](https://leetcode-cn.com/problems/lian-xu-zi-shu-zu-de-zui-da-he-lcof) |                          |
+| 剑指 Offer 46 | [把数字翻译成字符串](https://leetcode-cn.com/problems/ba-shu-zi-fan-yi-cheng-zi-fu-chuan-lcof) |                          |
+| 剑指 Offer 47 | [礼物的最大价值](https://leetcode-cn.com/problems/li-wu-de-zui-da-jie-zhi-lcof) |                          |
+| 剑指 Offer 48 | [最长不含重复字符的子字符串](https://leetcode-cn.com/problems/zui-chang-bu-han-zhong-fu-zi-fu-de-zi-zi-fu-chuan-lcof) | 滑动窗口                 |
+| 剑指 Offer 49 | [丑数](https://leetcode-cn.com/problems/chou-shu-lcof)       | 找规律，状态转移分析困难 |
 
 ## 递归
 
