@@ -125,6 +125,7 @@ leetcode刷题记录
 | 22            | [ 括号生成](https://leetcode-cn.com/problems/generate-parentheses) |                |
 | 28            | [实现 strStr()](https://leetcode-cn.com/problems/implement-strstr) | KMP算法（☆）   |
 | 剑指 Offer 20 | [表示数值的字符串](https://leetcode-cn.com/problems/biao-shi-shu-zhi-de-zi-fu-chuan-lcof) | 有限状态自动机 |
+| 剑指 Offer 50 | [第一个只出现一次的字符](https://leetcode-cn.com/problems/di-yi-ge-zhi-chu-xian-yi-ci-de-zi-fu-lcof) | 哈希表         |
 
 ## 贪心算法
 
